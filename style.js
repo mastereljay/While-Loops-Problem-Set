@@ -1,8 +1,8 @@
-// Print all numbers betwreen 1-10
+// Print all even numbers between 10-40
 
-var num = 1;
+var num = 10;
 
-while (num <= 10) {
+while (num <= 40) {
 	console.log(num);
-	num += 1;
+	num += 2;
 }
