@@ -1,8 +1,8 @@
-// Print all even numbers between 10-40
+// Print all odd numbers between 300-333
 
-var num = 10;
+var num = 300;
 
-while (num <= 40) {
+while (num <= 333) {
 	console.log(num);
 	num += 2;
 }
